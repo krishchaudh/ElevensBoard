@@ -1,0 +1,11 @@
+C:\AnkitWork\AnkitVSProject\FINALPROJECT\FINALPROJECT\bin\Debug\FINALPROJECT.exe.config
+C:\AnkitWork\AnkitVSProject\FINALPROJECT\FINALPROJECT\bin\Debug\FINALPROJECT.exe
+C:\AnkitWork\AnkitVSProject\FINALPROJECT\FINALPROJECT\bin\Debug\FINALPROJECT.pdb
+C:\AnkitWork\AnkitVSProject\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.Form1.resources
+C:\AnkitWork\AnkitVSProject\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.Properties.Resources.resources
+C:\AnkitWork\AnkitVSProject\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.csproj.GenerateResource.cache
+C:\AnkitWork\AnkitVSProject\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.exe
+C:\AnkitWork\AnkitVSProject\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.pdb
+C:\AnkitWork\AnkitVSProject\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.csproj.AssemblyReference.cache
+C:\AnkitWork\AnkitVSProject\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.csproj.SuggestedBindingRedirects.cache
+C:\AnkitWork\AnkitVSProject\FINALPROJECT\FINALPROJECT\obj\Debug\FINALPROJECT.csproj.CoreCompileInputs.cache
